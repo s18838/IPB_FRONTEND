@@ -1,0 +1,12 @@
+body {
+    background-color: #111;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    width: 1200px;
+}
